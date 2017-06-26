@@ -1,3 +1,6 @@
+/*
+Author: Harshit Sidhwa
+*/
 #include <bits/stdc++.h>
 #define MAX_TREE_HT 256
 using namespace std;
