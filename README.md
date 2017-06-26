@@ -19,5 +19,5 @@ We start from root and do following until a leaf is found.
 3. If during traversal, we encounter a leaf node, we print character of that particular leaf node and then again continue the iteration of the encoded data starting from step 1.
 
 # Reference:
-http://www.geeksforgeeks.org/greedy-algorithms-set-3-huffman-coding/
-http://www.geeksforgeeks.org/huffman-decoding/
+http://www.geeksforgeeks.org/greedy-algorithms-set-3-huffman-coding
+http://www.geeksforgeeks.org/huffman-decoding
